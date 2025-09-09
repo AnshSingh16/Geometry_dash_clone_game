@@ -96,5 +96,5 @@ SOFTWARE.
 
 **Enjoy the game! Share it with your friends or show it in your college project.**
 
-## IF YOU HAVE SOME YOUR IDEA TO MAKE IT UNIQUE. BE SURE TO TAG ME TO MY LINKEDIN AND GITHUB!
+## IF YOU HAVE SOME OF YOUR IDEA TO MAKE IT UNIQUE. BE SURE TO TAG ME TO MY LINKEDIN AND GITHUB!
 ## LinkedIn: www.linkedin.com/in/anshsinghai  
