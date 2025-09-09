@@ -63,6 +63,13 @@ A simple Geometry Dash clone built with Python and Pygame.
 
 - The game saves your high score in `highscore.txt` in the project directory.
 
+## Preview
+ 
+ ![MENU](Screenshots/menu.png)
+ ![Game_Screen](Screenshots/main_screen.png)
+ ![Gameover](Screenshots/game_over.png)
+
+
 ## License
 
 MIT License
