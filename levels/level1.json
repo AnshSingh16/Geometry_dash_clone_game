@@ -1,0 +1,17 @@
+{
+"name": "Level 1",
+"music": "assets/bg_music.mp3",
+"bg_color": [30, 30, 35],
+"spawns": [
+    {"x": 600, "w": 40, "h": 40, "kind": "block"},
+    {"x": 900, "w": 40, "h": 40, "kind": "block"},
+    {"x": 1200, "w": 40, "h": 40, "kind": "spike"},
+    {"x": 1600, "w": 40, "h": 40, "kind": "block"},
+    {"x": 2000, "w": 40, "h": 40, "kind": "spike"},
+    {"x": 2400, "w": 40, "h": 40, "kind": "block"},
+    {"x": 2800, "w": 40, "h": 40, "kind": "block"},
+    {"x": 3200, "w": 40, "h": 40, "kind": "spike"},
+    {"x": 3600, "w": 40, "h": 40, "kind": "block"},
+    {"x": 4000, "w": 40, "h": 40, "kind": "spike"}
+]
+}
