@@ -69,6 +69,9 @@ A simple Geometry Dash clone built with Python and Pygame.
  ![Game_Screen](Screenshots/main_screen.png)
  ![Gameover](Screenshots/game_over.png)
 
+ ## App Release
+  The Latest version for windows users has been released Geometry Dash Clone – Windows Executable (v1.0). Go check it out and share your review.
+
 
 ## License
 
