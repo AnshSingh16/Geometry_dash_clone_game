@@ -30,7 +30,7 @@ A simple Geometry Dash clone built with Python and Pygame.
     ```
 
 3. **Add assets:**
- **NOTE: I have already added my own sounds but if you like you can tweak it out with some of your own creativity.**
+ **NOTE: I have already added my own sounds and images for player and background but if you like you can tweak it out with some of your own creativity.**
     - Place your sound files (`jump.wav`, `hit.wav`, `score.wav`, `bg_music.mp3`), player image (`player.png`), and background image (`background.png`) in the `assets` folder.
     - Place your level files (`.json`) in the `levels` folder. Example level structure:
       ```json
