@@ -1,3 +1,5 @@
+# Exe Application file has been uploaded to the release section if any one want to just experience the game
+
 # Geometry Dash Clone
 
 A simple Geometry Dash clone built with Python and Pygame.
